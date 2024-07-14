@@ -63,7 +63,7 @@ export default function Home() {
                 <Button variant="default">Enquire Here</Button>
               </Link>
 
-              <Link href={"/pages/contacts"}>
+              <Link href={"/pages/service"}>
                 <Button variant="secondary">
                   View services & planning &rarr;
                 </Button>

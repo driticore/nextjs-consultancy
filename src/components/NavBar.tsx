@@ -25,7 +25,7 @@ const Navbar = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/pages/services">
+                <Link href="/pages/service">
                   <span className={cn(buttonVariants({variant: "ghost", className: "font-semibold"}))}>Services</span>
                 </Link>
               </li>
