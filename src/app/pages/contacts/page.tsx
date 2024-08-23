@@ -17,7 +17,7 @@ const ContactPage = () => {
         </div>
 
         <div className="items-center w-1/2 py-20">
-          <form action="" >
+          <form action="https://formsubmit.co/your@email.com" method="POST" >
             <LabelInputContainer>
               <Label htmlFor="firstname" className={LABEL_STYLE}>First name</Label>
               <Input type="text" placeholder="Email"></Input>
